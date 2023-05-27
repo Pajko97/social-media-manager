@@ -7,7 +7,7 @@ Initial version will include support for:
 
 - Twitter API
 - Instagram API
-- TikTok API
+- TikTok API ( when they release it outside of USA )
 - Facebook API
 
 There is usage quotas on almost all of those, so number of calls to the respective API's will be limited
